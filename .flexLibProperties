@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="aRenberg.description.DescriptionParser"/>
+    <classEntry path="aRenberg.description.DescriptionExtractor"/>
+    <classEntry path="aRenberg.description.DescriptionUtils"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
